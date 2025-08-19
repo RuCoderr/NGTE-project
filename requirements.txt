@@ -1,0 +1,5 @@
+aiogram==3.20.0
+python_dotenv==1.1.1
+asyncio-atexit==1.0.1
+aiosqlite==0.21.0
+time==
